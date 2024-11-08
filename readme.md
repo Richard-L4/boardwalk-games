@@ -16,3 +16,4 @@ ___
 
 [bootstap](https://getbootstrap.com/)
 [frame](https://ui.dev/amiresponsive?url=https://richard-l4.github.io/boardwalk-games/)
+![pics](assets/css/images/Screenshot 2024-11-08 194747.png)
