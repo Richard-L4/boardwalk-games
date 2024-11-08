@@ -27,3 +27,5 @@ ___
 ![Scrrenshots](assets/css/images/Screenshot 2024-11-08 194747.png)
 
 ![pics] (/workspace/boardwalk-games/assets/css/images/Screenshot 2024-11-08 194747.png)
+
+![New Games Image](assets/css/images/new-games-3.webp)
