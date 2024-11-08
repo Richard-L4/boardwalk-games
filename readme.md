@@ -25,3 +25,5 @@ ___
 ![Screenshot](assets/css/images/Screenshot 2024-11-08 194747.png)
 
 ![Scrrenshots](assets/css/images/Screenshot 2024-11-08 194747.png)
+
+![pics] (/workspace/boardwalk-games/assets/css/images/Screenshot 2024-11-08 194747.png)
