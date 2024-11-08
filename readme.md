@@ -9,4 +9,8 @@ ___
 - This is a bullet point using `-`
 * This is a bullet point using `*`
 + This is a bullet point using `+`
+<ul>
+  <li style="list-style-type: circle; color: black; border: 1px solid black; padding-left: 0.5em;">Outlined bullet point</li>
+</ul>
+
 
