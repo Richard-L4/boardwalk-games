@@ -6,3 +6,7 @@ ___
 ![New Games Image](assets/css/images/new-games-3.webp)
 ![bootstrap](https://getbootstrap.com/)
 [bootstap](https://getbootstrap.com/)
+- This is a bullet point using `-`
+* This is a bullet point using `*`
++ This is a bullet point using `+`
+
